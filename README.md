@@ -84,6 +84,7 @@ A curated list of practical resources for AI coding-agent harnesses, including s
 - [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) - Official React, Next.js best practices, web design guidelines, composition patterns, and performance optimization skills.
 - [Cursor Team Skills](https://github.com/cursor/plugins) - Skills and plugins from the Cursor team, including **thermo-nuclear-code-quality-review**, a strict maintainability review focused on abstraction quality, structural simplification, removing complexity instead of relocating it, and file size discipline.
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) - Official agent skills by Obsidian's creator for Obsidian Flavored Markdown (wikilinks, embeds, callouts, properties), Bases (`.base`), JSON Canvas, CLI (including plugin/theme development), vault workflows, and Defuddle web-to-markdown extraction.
+- [PlaceCall](https://github.com/voygr-tech/placecall) - Official PlaceCall skill and Claude Code, Codex and Cursor plugins for placing real phone calls to US businesses: writing the call brief, following the call, answering mid-call questions and reading back the outcome and transcript. Requires a PlaceCall account (browser sign-in or API key); calls run on the hosted PlaceCall service and are paid per outcome after the free calls.
 
 ## Skill Collections
 
